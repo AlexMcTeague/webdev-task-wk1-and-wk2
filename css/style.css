@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+    background: #DE89BE;
+}
+
+div, div * {
+    background: #FDCFF3
+}
+
+div {
+    display: inline-block;
+}
+
+
+li strong {
+    color: #070707
+}
+li i {
+    font-style: italic;
+    color: #40434E
+}
